@@ -1,0 +1,219 @@
+[
+  {
+    "id": "prop1",
+    "type": "House",
+    "bedrooms": 3,
+    "price": 750000,
+    "tenure": "Freehold",
+    "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC.",
+    "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+    "images": [
+      "images/property1/image1.jpeg",
+      "images/property1/image2.jpeg",
+      "images/property1/image3.jpeg",
+      "images/property1/image4.jpeg",
+      "images/property1/image5.jpeg"
+    ],
+    "postcodeArea": "BR5",
+    "floorPlan": "images/property1/floorplan.jpeg",
+    "added": {
+      "month": "October",
+      "day": 12,
+      "year": 2022
+    },
+    "title": "Cozy Family Home",
+    "shortDescription": "A beautiful family home in a quiet neighborhood.",
+    "longDescription": "This spacious 3-bedroom house features a modern kitchen, a large backyard, and is located in the desirable BR5 postcode area. It's perfect for families looking for a comfortable and convenient place to live.",
+    "locationCoords": {
+      "latitude": 51.396,
+      "longitude": 0.074
+    },
+    "cardImage": "images/property1/card-image.jpeg"
+  },
+  {
+    "id": "prop2",
+    "type": "Flat",
+    "bedrooms": 2,
+    "price": 399995,
+    "tenure": "Freehold",
+    "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine.",
+    "location": "Crofton Road Orpington BR5",
+    "images": [
+      "images/property2/image1.jpeg",
+      "images/property2/image2.jpeg",
+      "images/property2/image3.jpeg",
+      "images/property2/image4.jpeg",
+      "images/property2/image5.jpeg"
+    ],
+    "postcodeArea": "BR5",
+    "floorPlan": "images/property2/floorplan.jpeg",
+    "added": {
+      "month": "September",
+      "day": 14,
+      "year": 2022
+    },
+    "title": "Modern City Apartment",
+    "shortDescription": "Stylish apartment in the heart of the city.",
+    "longDescription": "This modern 2-bedroom flat offers stunning city views, a sleek design, and easy access to all amenities. It's ideal for young professionals or couples.",
+    "locationCoords": {
+      "latitude": 51.398,
+      "longitude": 0.065
+    },
+    "cardImage": "images/property2/card-image.jpeg"
+  },
+  {
+    "id": "prop3",
+    "type": "Flat",
+    "bedrooms": 2,
+    "price": 280000,
+    "tenure": "Leasehold",
+    "postcodeArea": "N1",
+    "added": {
+      "month": "October",
+      "day": 25,
+      "year": 2024
+    },
+    "title": "Charming Flat in Islington",
+    "shortDescription": "A delightful flat in the vibrant Islington area.",
+    "longDescription": "This charming 2-bedroom flat in the heart of Islington boasts period features, a cozy living space, and close proximity to Upper Street's shops and restaurants. Perfect for those seeking a blend of modern and traditional living.",
+    "images": [
+      "images/property3/image1.jpeg",
+      "images/property3/image2.jpeg",
+      "images/property3/image3.jpeg",
+      "images/property3/image4.jpeg",
+      "images/property3/image5.jpeg"
+    ],
+    "location": "Islington, London N1",
+    "floorPlan": "images/property3/floorplan.jpeg",
+    "description": "A charming two-bedroom flat located in the heart of Islington, offering a blend of modern amenities and period features. The flat is within walking distance of local shops, restaurants, and transport links, making it an ideal choice for those looking to enjoy the vibrant Islington lifestyle.",
+    "locationCoords": {
+      "latitude": 51.535,
+      "longitude": -0.105
+    },
+    "cardImage": "images/property3/card-image.jpeg"
+  },
+  {
+    "id": "prop4",
+    "type": "House",
+    "bedrooms": 4,
+    "price": 420000,
+    "tenure": "Freehold",
+    "postcodeArea": "N1",
+    "added": {
+      "month": "November",
+      "day": 5,
+      "year": 2024
+    },
+    "title": "Elegant West End Residence",
+    "shortDescription": "A luxurious residence in London's prestigious West End.",
+    "longDescription": "Experience the height of luxury in this elegant 4-bedroom West End residence. Featuring high-end finishes, spacious rooms, and an unbeatable location, this property is perfect for discerning buyers seeking the ultimate London lifestyle.",
+    "images": [
+      "images/property4/image1.jpeg",
+      "images/property4/image2.jpeg",
+      "images/property4/image3.jpeg",
+      "images/property4/image4.jpeg",
+      "images/property4/image5.jpeg"
+    ],
+    "location": "Highbury, London N1",
+    "floorPlan": "images/property4/floorplan.jpeg",
+    "description": "An elegant four-bedroom residence located in the prestigious West End of London. This property combines luxury and convenience, offering spacious living areas, modern amenities, and easy access to some of London's most famous landmarks and shopping districts.",
+    "locationCoords": {
+      "latitude": 51.548,
+      "longitude": -0.102
+    },
+    "cardImage": "images/property4/card-image.jpeg"
+  },
+  {
+    "id": "prop5",
+    "type": "House",
+    "bedrooms": 3,
+    "price": 320000,
+    "tenure": "Share of Freehold",
+    "postcodeArea": "W1",
+    "added": {
+      "month": "October",
+      "day": 15,
+      "year": 2024
+    },
+    "title": "Contemporary South Bank Home",
+    "shortDescription": "A modern home on the vibrant South Bank.",
+    "longDescription": "This contemporary 3-bedroom home near the South Bank offers a stylish living space with easy access to the Thames, cultural attractions, and excellent transport links. Ideal for families or professionals who love being close to the action.",
+    "images": [
+      "images/property5/image1.jpeg",
+      "images/property5/image2.jpeg",
+      "images/property5/image3.jpeg",
+      "images/property5/image4.jpeg",
+      "images/property5/image5.jpeg"
+    ],
+    "location": "South Bank, London SE1",
+    "floorPlan": "images/property5/floorplan.jpeg",
+    "description": "A stunning three-bedroom house located on the South Bank, offering a modern and stylish living environment. The property boasts a prime location near the River Thames, providing easy access to numerous cultural attractions, dining, and entertainment options.",
+    "locationCoords": {
+      "latitude": 51.505,
+      "longitude": -0.11
+    },
+    "cardImage": "images/property5/card-image.jpeg"
+  },
+  {
+    "id": "prop6",
+    "type": "House",
+    "bedrooms": 4,
+    "price": 650000,
+    "tenure": "Freehold",
+    "postcodeArea": "W1",
+    "added": {
+      "month": "December",
+      "day": 10,
+      "year": 2024
+    },
+    "title": "Central London Townhouse",
+    "shortDescription": "A stylish townhouse in the heart of London.",
+    "longDescription": "This 4-bedroom townhouse in Central London offers a blend of modern and classic design. With its prime location, it provides easy access to the city's major attractions and business districts.",
+    "images": [
+      "images/property6/image1.jpeg",
+      "images/property6/image2.jpeg",
+      "images/property6/image3.jpeg",
+      "images/property6/image4.jpeg",
+      "images/property6/image5.jpeg"
+    ],
+    "location": "Mayfair, London W1",
+    "floorPlan": "images/property6/floorplan.jpeg",
+    "description": "A luxurious four-bedroom townhouse located in the heart of Central London. This property offers a unique combination of historical charm and contemporary design, situated in one of the most sought-after areas with proximity to major landmarks and business centers.",
+    "locationCoords": {
+      "latitude": 51.508,
+      "longitude": -0.15
+    },
+    "cardImage": "images/property6/card-image.jpeg"
+  },
+  {
+    "id": "prop7",
+    "type": "Flat",
+    "bedrooms": 3,
+    "price": 480000,
+    "tenure": "Leasehold",
+    "postcodeArea": "W1",
+    "added": {
+      "month": "December",
+      "day": 20,
+      "year": 2024
+    },
+    "title": "Luxury Apartment in Mayfair",
+    "shortDescription": "An exclusive apartment in the prestigious Mayfair area.",
+    "longDescription": "This luxury 3-bedroom apartment in Mayfair is the epitome of elegance and sophistication. It features high-end finishes, a spacious layout, and stunning views of the city.",
+    "images": [
+      "images/property7/image1.jpeg",
+      "images/property7/image2.jpeg",
+      "images/property7/image3.jpeg",
+      "images/property7/image4.jpeg",
+      "images/property7/image5.jpeg"
+    ],
+    "location": "Mayfair, London W1",
+    "floorPlan": "images/property7/floorplan.png",
+    "description": "A luxurious three-bedroom apartment situated in the prestigious area of Mayfair. This exclusive property offers an unparalleled living experience with its exquisite design, premium amenities, and breathtaking views of the London skyline.",
+    "locationCoords": {
+      "latitude": 51.51,
+      "longitude": -0.145
+    },
+    "cardImage": "images/property7/card-image.jpeg"
+  }
+]
