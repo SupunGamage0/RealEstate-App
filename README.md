@@ -6,7 +6,7 @@ A responsive Single Page Application (SPA) for property search and management. B
 ---
 
 ## 🔗 Live Demo
-[https://real-estate-app-plum.vercel.app/.com]
+[RealEstate](https://real-estate-app-plum.vercel.app/)
 
 ---
 
